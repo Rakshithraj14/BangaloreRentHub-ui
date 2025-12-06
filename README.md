@@ -76,6 +76,10 @@ The frontend expects the following backend endpoints:
 
 This project uses Vite's proxy feature to forward `/api/*` requests to the backend during development, avoiding CORS issues.
 
+---
+
+Built with ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
+
 ## License
 
 MIT
